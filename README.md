@@ -37,6 +37,10 @@
 [![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 
 
+<h5 align="center">
+   ⬇️ Take a look at my recent projects below ⬇️
+</h5>
+
 <!--
 **p4trykJ/p4trykJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
