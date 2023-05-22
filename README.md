@@ -14,7 +14,7 @@
 #### Tech stack
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/p4trykJ](https://vuejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
 [![Vuetify](https://img.shields.io/badge/vuetify-black?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com)
 [![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://openlayers.org/)
