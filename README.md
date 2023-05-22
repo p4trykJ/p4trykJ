@@ -12,8 +12,8 @@
 </div>
 
 #### Tech stack:
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
+[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
 
 
 <!--
