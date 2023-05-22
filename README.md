@@ -23,6 +23,8 @@
 [![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://openlayers.org/)
 [![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
 [![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 [![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
@@ -32,9 +34,6 @@
 [![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
-[![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://vitest.dev/)
-[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
-
 
 
 <!--
