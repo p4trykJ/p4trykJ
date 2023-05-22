@@ -5,9 +5,9 @@
      I'm Patryk
    </h3>
   
-   <h4>
+   <h3>
       Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | Open Source contributor
-   </h4>
+   </h3>
    
 </div>
 
