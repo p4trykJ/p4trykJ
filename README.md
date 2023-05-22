@@ -29,7 +29,9 @@
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
-[![Netlify](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://vitest.dev/)
+[![Vitest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
 
 
 
