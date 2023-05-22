@@ -25,6 +25,7 @@
 [![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://openlayers.org/)
+[![SASS](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
 [![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 [![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
