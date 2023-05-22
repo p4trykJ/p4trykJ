@@ -5,15 +5,15 @@
      I'm Patryk
    </h3>
   
-   <h5>
+   <h4>
       Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | Open Source contributor
-   </h5>
+   </h4>
    
 </div>
 
 <h4 align="center">
    ⚡ Tech stack
-</h5>
+</h4>
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
