@@ -16,6 +16,8 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/p4trykJ)
 [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/p4trykJ)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt.js)](https://github.com/p4trykJ)
+[![Nuxt.js](https://img.shields.io/badge/vuetify-black?style=for-the-badge&logo=vuetify)](https://github.com/p4trykJ)
+
 
 
 <!--
