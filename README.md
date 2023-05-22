@@ -11,7 +11,7 @@
    
 </div>
 
-#### Tech stack
+Tech stack
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
@@ -21,7 +21,7 @@
 [![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
-[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
+[![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 [![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
 
 
