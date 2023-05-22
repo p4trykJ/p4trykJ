@@ -11,7 +11,7 @@
    
 </div>
 
-<h5 align="center">
+<h4 align="center">
    ⚡ Tech stack
 </h5>
 
