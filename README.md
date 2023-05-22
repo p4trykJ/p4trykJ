@@ -28,10 +28,12 @@
 [![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
 [![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/)
+[![Gitlab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/bitbucket-black?style=for-the-badge&logo=bitbucket)](https://bitbucket.org/)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![Vitest](https://img.shields.io/badge/vitest-black?style=for-the-badge&logo=vitest)](https://vitest.dev/)
-[![Vitest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
+[![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest)](https://jestjs.io/)
 
 
 
