@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/p4trykJ/p4trykJ/blob/master/wave.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi! <img src="https://github.com/p4trykJ/p4trykJ/blob/master/wave.gif" width="28px" alt="👋"></h1>
 
 <div align="center">
    <h3>
