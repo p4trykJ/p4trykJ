@@ -13,7 +13,8 @@
 
 #### Tech stack:
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
-[![TypeScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/p4trykJ)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/p4trykJ)
+[![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue)](https://github.com/p4trykJ)
 
 
 <!--
