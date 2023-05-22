@@ -6,7 +6,7 @@
    </h3>
   
    <h5>
-      Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | open source contributor
+      Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | Open Source contributor
    </h5>
    
 </div>
@@ -26,6 +26,9 @@
 [![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
 [![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
 [![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
+[![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
 
 
 
