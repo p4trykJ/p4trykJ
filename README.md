@@ -1,13 +1,13 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <div align="center">
-   <h3>
+   <h2>
     I'm Patryk
-   </h3>
+   </h2>
   
-   <div>
+   <h5>
     Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | open source contributor
-   </div>
+   </h5>
 </div>
 
 
