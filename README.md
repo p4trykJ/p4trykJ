@@ -2,11 +2,11 @@
 
 <div align="center">
    <h3>
-    I'm Patryk
+    ### I'm Patryk
    </h3>
   
    <h5>
-    Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | open source contributor
+    ## Frontend engineer totally hooked on Vue ecosystem | GIS enthusiast | open source contributor
    </h5>
    
 </div>
