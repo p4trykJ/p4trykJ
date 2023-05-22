@@ -17,7 +17,7 @@
 [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=vue.js)]([https://github.com/p4trykJ](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
 [![Vuetify](https://img.shields.io/badge/vuetify-black?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com)
-[![Vuetify](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)]([https://vuetifyjs.com](https://openlayers.org/)
+[![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://openlayers.org/)
 
 
 
