@@ -18,6 +18,11 @@
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-black?style=for-the-badge&logo=nuxt.js)](https://nuxt.com/)
 [![Vuetify](https://img.shields.io/badge/vuetify-black?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com)
 [![OpenLayers](https://img.shields.io/badge/openlayers-black?style=for-the-badge&logo=openlayers)](https://openlayers.org/)
+[![Webpack](https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://npmjs.com/)
+[![YARN](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
 
 
 
